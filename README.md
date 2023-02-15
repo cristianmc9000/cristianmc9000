@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Cristian Mamani Cardozo</h1>
+<h1 align="center">Hola 👋, soy Cristian</h1>
 <h3 align="center">Desarrolador de Bolivia, apasionado por la tecnología.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianmc9000&label=Profile%20views&color=0e75b6&style=flat" alt="cristianmc9000" /> </p>
