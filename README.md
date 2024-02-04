@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Laravel, etc.**
 
-- 💬 Ask me about **JavaScript, Angular, PHP, CSS Frameworks**
+- 💬 Ask me about **JavaScript, Angular, PHP, C#, Blazor, Entity Framework**
 
 - 📫 How to reach me **cristian.preof1@gmail.com**
 
