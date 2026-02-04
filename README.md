@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=cristianmc9000&label=Profile%20views&color=0e75b6&style=flat" alt="cristianmc9000" />
 </p>
 
-- [cite_start]🔭 **Actualmente:** Arquitectura de software en **SEDEM** [cite: 11-14].
-- [cite_start]🚀 **Stack principal:** Dominio experto en **.NET, C# y PostgreSQL**[cite: 77, 81].
-- [cite_start]🌱 **Especializándome en:** Microservicios, **Docker** y flujos de CI/CD con **Azure DevOps**[cite: 72, 74].
-- [cite_start]📱 **Experiencia Mobile:** Desarrollo de aplicaciones híbridas con **Ionic y PWA**[cite: 43, 79].
-- [cite_start]💬 **Hablemos sobre:** Arquitectura de software, buenas prácticas (**SOLID**, Clean Code) y desarrollo Fullstack[cite: 65, 73, 78].
-- [cite_start]📫 **Contacto:** [cristian.preof1@gmail.com](mailto:cristian.preof1@gmail.com) [cite: 4]
-- [cite_start]🌎 **Idiomas:** Español (Nativo) e **Inglés (C1 Avanzado)** [cite: 85-86].
+- 🔭 **Actualmente:** Arquitectura de software en **SEDEM**.
+- 🚀 **Stack principal:** Dominio experto en **.NET, C# y PostgreSQL**.
+- 🌱 **Especializándome en:** Microservicios, **Docker** y flujos de CI/CD con **Azure DevOps**.
+- 📱 **Experiencia Mobile:** Desarrollo de aplicaciones híbridas con **Ionic y PWA**.
+- 💬 **Hablemos sobre:** Arquitectura de software, buenas prácticas (**SOLID**, Clean Code) y desarrollo Fullstack.
+- 📫 **Contacto:** [cristian.preof1@gmail.com](mailto:cristian.preof1@gmail.com)
+- 🌎 **Idiomas:** Español (Nativo) e **Inglés (C1 Avanzado)**.
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
